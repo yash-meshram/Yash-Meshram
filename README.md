@@ -11,7 +11,7 @@
 * Gradient boosting
 * Feature Engineering
 * Hyperparameter Optimization
-* 
+
 ## 📫 How to reach me: ...
 * Email-id: yash.meshram@iitgn.ac.in
 
