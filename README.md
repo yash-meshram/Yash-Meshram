@@ -12,7 +12,7 @@
 * Feature Engineering
 * Hyperparameter Optimization
 
-## 📫 How to reach me: ...
+## 📫 How to reach me:
 * Email-id: yash.meshram@iitgn.ac.in
 
 ## My GitHub Stats
