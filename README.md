@@ -16,8 +16,6 @@
 * Email-id: yash.meshram@iitgn.ac.in
 
 ## My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yash-meshram&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-meshram&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=yash-meshram&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-meshram&layout=compact&theme=dark)
 
 ![](https://activity-graph.herokuapp.com/graph?username=yash-meshram&theme=react-dark)
