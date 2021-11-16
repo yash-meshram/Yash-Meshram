@@ -16,6 +16,6 @@ On my track to explore more about Data Science
 * Email-id: yash.meshram@iitgn.ac.in
 
 
-<!-- ## My Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-meshram&show_icons=true&theme=dark) -->
+## My Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-meshram&show_icons=true&theme=dark)
 
