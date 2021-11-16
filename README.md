@@ -8,9 +8,14 @@
 
 <!-- ## 🔭 I’m currently working on ... -->
 ## 🌱 I’m currently learning ...
-* Gradient boosting
-* Feature Engineering\
-\
+<!-- * Gradient boosting
+* Feature Engineering\ -->
+<!-- \ -->
 On my track to explore more about Data Science
 ## 📫 How to reach me:
 * Email-id: yash.meshram@iitgn.ac.in
+
+
+<!-- ## My Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-meshram&show_icons=true&theme=dark) -->
+
