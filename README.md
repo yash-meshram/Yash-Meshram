@@ -14,6 +14,7 @@
 On my track to explore more about Data Science
 ## 📫 How to reach me:
 * Email-id: yash.meshram@iitgn.ac.in
+* LinkedIn: https://www.linkedin.com/in/yash-meshram-762357179
 
 
 ## My Github stats
