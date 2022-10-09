@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I am Yash Meshram
-* Senior Undergraduate (Graduation @ April 2022).
+* Graduated from IIT Gandhinagar
 * Data Science Enthusiast
 
 <!-- Here are some ideas to get you started: -->
