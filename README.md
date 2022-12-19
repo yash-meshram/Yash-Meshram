@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## I am Yash Meshram
+* Technical Tead @HCL
 * Graduated from IIT Gandhinagar
 * Data Science Enthusiast
 
