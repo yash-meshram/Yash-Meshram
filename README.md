@@ -12,7 +12,8 @@
 <!-- * Gradient boosting
 * Feature Engineering\ -->
 <!-- \ -->
-On my track to explore more about Data Science
+* Training for .NET FullStack
+* Learning Data Analysis
 ## 📫 How to reach me:
 * Email-id: yash.meshram@iitgn.ac.in
 * LinkedIn: https://www.linkedin.com/in/yash-meshram-762357179
