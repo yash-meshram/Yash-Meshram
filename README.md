@@ -15,10 +15,11 @@
 * Training for .NET FullStack
 * Learning Data Analysis
 ## 📫 How to reach me:
-* Email-id: yash.meshram@iitgn.ac.in
+* Email-id: yash.meshram@alumni.iitgn.ac.in
 * LinkedIn: https://www.linkedin.com/in/yash-meshram-762357179
 
 
-## My Github stats
+<!-- ## My Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-meshram&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-meshram&show_icons=true&theme=dark)](https://github.com/yash-meshram/github-readme-stats) -->
